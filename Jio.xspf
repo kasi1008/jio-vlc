@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+		<track>
+			<title>And_TV_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_TV_HD/And_TV_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_Rox_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Rox_HD/Sony_Rox_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_HD/Sony_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>MTV_Beats_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Zee_Cinema_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_Max_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Zee_TV_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_SAB_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_SAB_HD/Sony_SAB_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Colors_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_HD/Colors_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Six_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Six_HD/Six_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Ten_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_ESPN_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_ESPN_HD/Sony_ESPN_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>And_Pictures_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/And_Pictures_HD/And_Pictures_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_Le_PLEX_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Movies_Now_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Movies_Now_HD/Movies_Now_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_Pix_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Pix_HD/Sony_Pix_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>MNPLUS </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MNPLUS/MNPLUS_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Romedy_Now_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Romedy_Now_HD/Romedy_Now_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>AXN_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AXN_HD/AXN_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>HBO_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HBO_HD/HBO_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>History_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_HD/History_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Travel_XP_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Travel_XP_HD/Travel_XP_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Discovery_HD_World </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_HD_World/Discovery_HD_World_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Animal_Planet_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Animal_Planet_HD/Animal_Planet_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>TLC_HD_World </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_HD_World/TLC_HD_World_1200.m3u8</location>
+		</track>
+		<track>
+			<title>FYI_TV18 </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/FYI_TV18/FYI_TV18_1200.m3u8</location>
+		</track>
+		<track>
+			<title>MTV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MTV/MTV_800.m3u8</location>
+		</track>
+		<track>
+			<title>Mastii </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Mastiii/Mastiii_800.m3u8</location>
+		</track>
+		<track>
+			<title>9XM </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9XM/9XM_800.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_Mix </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_800.m3u8</location>
+		</track>
+		<track>
+			<title>etc </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/etc/etc_800.m3u8</location>
+		</track>
+		<track>
+			<title>E_24 </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/E_24/E_24_800.m3u8</location>
+		</track>
+		<track>
+			<title>9X_Jalwa </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/9X_Jalwa/9X_Jalwa_800.m3u8</location>
+		</track>
+		<track>
+			<title>Neo_Sports </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Neo_Sports/Neo_Sports_800.m3u8</location>
+		</track>
+		<track>
+			<title>Ten_1 </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_1/Ten_1_800.m3u8</location>
+		</track>
+		<track>
+			<title>Ten_2 </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_2/Ten_2_800.m3u8</location>
+		</track>
+		<track>
+			<title>Ten_3 </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_3/Ten_3_800.m3u8</location>
+		</track>
+		<track>
+			<title>Ten_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Neo_Prime </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Neo_Prime/Neo_Prime_800.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_Six </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Six_SD/Sony_Six_SD_800.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_ESPN </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_ESPN_SD/Sony_ESPN_SD_800.m3u8</location>
+		</track>
+		<track>
+			<title>Republic_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Republic_TV/Republic_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>ABP_News_India </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABP_News_India/ABP_News_India_800.m3u8</location>
+		</track>
+		<track>
+			<title>CNN_NEWS_18 </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CNN_NEWS_18/CNN_NEWS_18_800.m3u8</location>
+		</track>
+		<track>
+			<title>Aaj_Tak </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_800.m3u8</location>
+		</track>
+		<track>
+			<title>NDTV_24x7 </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_24x7/NDTV_24x7_800.m3u8</location>
+		</track>
+		<track>
+			<title>CNN </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CNN/CNN_800.m3u8</location>
+		</track>
+		<track>
+			<title>India_Today </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/India_Today/India_Today_800.m3u8</location>
+		</track>
+		<track>
+			<title>Times_NOW </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Times_NOW/Times_NOW_800.m3u8</location>
+		</track>
+		<track>
+			<title>BBC_World_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/BBC_World_News/BBC_World_News_800.m3u8</location>
+		</track>
+		<track>
+			<title>NDTV_India </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_India/NDTV_India_800.m3u8</location>
+		</track>
+		<track>
+			<title>IBN_7 </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/IBN_7/IBN_7_800.m3u8</location>
+		</track>
+		<track>
+			<title>Aaj_Tak_Delhi </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aaj_Tak_Delhi/Aaj_Tak_Delhi_800.m3u8</location>
+		</track>
+		<track>
+			<title>India_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/India_TV/India_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>India_news </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/India_news/India_news_800.m3u8</location>
+		</track>
+		<track>
+			<title>News_Nation </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News_Nation/News_Nation_800.m3u8</location>
+		</track>
+		<track>
+			<title>News_24 </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News_24/News_24_800.m3u8</location>
+		</track>
+		<track>
+			<title>Colors_Marathi_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Colors_Marathi_HD/Colors_Marathi_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Maharashtra1 </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maharashtra1/Maharashtra1_800.m3u8</location>
+		</track>
+		<track>
+			<title>ABP_Majha </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABP_Majha/ABP_Majha_800.m3u8</location>
+		</track>
+		<track>
+			<title>Zee_24_Taas </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_24_Taas/Zee_24_Taas_800.m3u8</location>
+		</track>
+		<track>
+			<title>IBN_Lokmat </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/IBN_Lokmat/IBN_Lokmat_800.m3u8</location>
+		</track>
+		<track>
+			<title>TV9_Maharashtra </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_800.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_Yay_Hindi </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Yay_Hindi/Sony_Yay_Hindi_800.m3u8</location>
+		</track>
+		<track>
+			<title>Cartoon_Network </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8</location>
+		</track>
+		<track>
+			<title>Pogo_Hindi </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_800.m3u8</location>
+		</track>
+		<track>
+			<title>Nick_Hindi </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Hindi/Nick_Hindi_800.m3u8</location>
+		</track>
+		<track>
+			<title>Nick_Junior </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Junior/Nick_Junior_800.m3u8</location>
+		</track>
+		<track>
+			<title>sonic_Hindi </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Hindi/sonic_Hindi_800.m3u8</location>
+		</track>
+		<track>
+			<title>CVR_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CVR_News/CVR_News_800.m3u8</location>
+		</track>
+		<track>
+			<title>Jaya_Shankara </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jaya_Jaya_Shankara_TV/Jaya_Jaya_Shankara_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>10_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/10_TV/10_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>ETV_Abhiruchi </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Abhiruchi/ETV_Abhiruchi_800.m3u8</location>
+		</track>
+		<track>
+			<title>Discovery_Channel </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Telugu/Discovery_Channel_Telugu_800.m3u8</location>
+		</track>
+		<track>
+			<title>TV1 </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TV1/TV1_800.m3u8</location>
+		</track>
+		<track>
+			<title>Zee_Telugu </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Telugu/Zee_Telugu_800.m3u8</location>
+		</track>
+		<track>
+			<title>Studio_n </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Studio_n/Studio_n_800.m3u8</location>
+		</track>
+		<track>
+			<title>NTV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NTV/NTV_800.m3u8</location>
+		</track>
+		<track>
+			<title>Gemini_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_TV/Gemini_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>Raj_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_News_Telugu/Raj_News_Telugu_800.m3u8</location>
+		</track>
+		<track>
+			<title>HM_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/HM_TV/HM_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>ABN_Andhra </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABN_Andhra_Jyothi/ABN_Andhra_Jyothi_800.m3u8</location>
+		</track>
+		<track>
+			<title>T_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/T_News/T_News_800.m3u8</location>
+		</track>
+		<track>
+			<title>TV_5_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TV_5_News/TV_5_News_800.m3u8</location>
+		</track>
+		<track>
+			<title>Gemini_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_News/Gemini_News_800.m3u8</location>
+		</track>
+		<track>
+			<title>V6_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/V6_News/V6_News_800.m3u8</location>
+		</track>
+		<track>
+			<title>Raj_Music </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_Music_Telugu/Raj_Music_Telugu_800.m3u8</location>
+		</track>
+		<track>
+			<title>Gemini_Comedy </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_Comedy/Gemini_Comedy_800.m3u8</location>
+		</track>
+		<track>
+			<title>Vissa_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Vissa_TV/Vissa_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>Gemini_Music </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Gemini_Music/Gemini_Music_800.m3u8</location>
+		</track>
+		<track>
+			<title>CVR_OM </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CVR_OM_Spiritual/CVR_OM_Spiritual_800.m3u8</location>
+		</track>
+		<track>
+			<title>ETV_Cinema </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Cinema/ETV_Cinema_800.m3u8</location>
+		</track>
+		<track>
+			<title>Sun_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sun_TV/Sun_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>Puthu_Yugam </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Puthu_Yugam/Puthu_Yugam_800.m3u8</location>
+		</track>
+		<track>
+			<title>Malai_Murasu </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Malai_Murasu/Malai_Murasu_800.m3u8</location>
+		</track>
+		<track>
+			<title>Thanthi_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Thanthi_TV/Thanthi_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>Vendhar_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Vendhar_TV/Vendhar_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>MK_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MK_TV/MK_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_Yay_Tamil </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Yay_Tamil/Sony_Yay_Tamil_800.m3u8</location>
+		</track>
+		<track>
+			<title>BBC_Earth_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_BBC_Earth_HD_Tamil/Sony_BBC_Earth_HD_Tamil_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Madhimugam_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Madhimugam_TV/Madhimugam_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>MK_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MK_News/MK_News_800.m3u8</location>
+		</track>
+		<track>
+			<title>MK_Music </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/MK_Music/MK_Music_800.m3u8</location>
+		</track>
+		<track>
+			<title>Angel_TV_HD </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Angel_TV_HD/Angel_TV_HD_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Nick_TamiL </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nick_Tamil/Nick_Tamil_800.m3u8</location>
+		</track>
+		<track>
+			<title>sonic_Tamil </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/sonic_Tamil/sonic_Tamil_800.m3u8</location>
+		</track>
+		<track>
+			<title>Discovery_Kids </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Kids_Tamil/Discovery_Kids_Tamil_800.m3u8</location>
+		</track>
+		<track>
+			<title>Chutti_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Chutti_TV/Chutti_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>Cartoon_Network </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Tamil/Cartoon_Network_Tamil_800.m3u8</location>
+		</track>
+		<track>
+			<title>Pogo_Tamil </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Tamil/Pogo_Tamil_800.m3u8</location>
+		</track>
+		<track>
+			<title>Peppers_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Peppers_TV/Peppers_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>Discovery </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Tamil/Discovery_Channel_Tamil_800.m3u8</location>
+		</track>
+		<track>
+			<title>History_18 </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/History_18_Tamil/History_18_Tamil_1200.m3u8</location>
+		</track>
+		<track>
+			<title>Nambikkai </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Nambikkai/Nambikkai_800.m3u8</location>
+		</track>
+		<track>
+			<title>Zee_Tamil </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Tamil/Zee_Tamil_800.m3u8</location>
+		</track>
+		<track>
+			<title>Polimer_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Polimer_News/Polimer_News_800.m3u8</location>
+		</track>
+		<track>
+			<title>Raj_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Raj_News_24x7/Raj_News_24x7_800.m3u8</location>
+		</track>
+		<track>
+			<title>Captain_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Captain_News/Captain_News_800.m3u8</location>
+		</track>
+		<track>
+			<title>Sathiyam </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sathiyam/Sathiyam_800.m3u8</location>
+		</track>
+		<track>
+			<title>News7_Tamil </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News7_Tamil/News7_Tamil_800.m3u8</location>
+		</track>
+		<track>
+			<title>Sun_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sun_News/Sun_News_800.m3u8</location>
+		</track>
+		<track>
+			<title>Puthiya_Thalimurai </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Puthiya_Thalimurai/Puthiya_Thalimurai_800.m3u8</location>
+		</track>
+		<track>
+			<title>Sony_aath </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_aath/Sony_aath_800.m3u8</location>
+		</track>
+		<track>
+			<title>Music_Fatafati </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Music_Fatafati/Music_Fatafati_800.m3u8</location>
+		</track>
+		<track>
+			<title>Discovery </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Bengali/Discovery_Channel_Bengali_800.m3u8</location>
+		</track>
+		<track>
+			<title>Zee_Bangla </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Bangla/Zee_Bangla_800.m3u8</location>
+		</track>
+		<track>
+			<title>ABP_Ananda </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABP_Ananda/ABP_Ananda_800.m3u8</location>
+		</track>
+		<track>
+			<title>24_Ghanta_TV </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/24_Ghanta_TV/24_Ghanta_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>Zee_Cinema </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Bangla_Cinema/Zee_Bangla_Cinema_800.m3u8</location>
+		</track>
+		<track>
+			<title>News_Time </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News_Time_TV/News_Time_TV_800.m3u8</location>
+		</track>
+		<track>
+			<title>DD_Bangla </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/DD_Bangla/DD_Bangla_800.m3u8</location>
+		</track>
+		<track>
+			<title>Aakaash_bangla </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aakaash_bangla/Aakaash_bangla_800.m3u8</location>
+		</track>
+		<track>
+			<title>ETV_News </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ETV_Bangla_News/ETV_Bangla_News_800.m3u8</location>
+		</track>
+		<track>
+			<title>Sangeet_Bangla </title>
+			<location>http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sangeet_Bangla/Sangeet_Bangla_800.m3u8</location>
+		</track>
+	</trackList>
+</playlist>
